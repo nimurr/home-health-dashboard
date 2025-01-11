@@ -1,0 +1,29 @@
+.table-row:hover {
+  background-color: #ece6ee; /* Background color on hover */
+} 
+
+.table-row {
+  background-color: #ece6ee; /* Background color on hover */
+
+}
+
+ 
+.PhoneInputInput{
+  
+  background: #000 !important;
+}
+
+
+/* Custom styles for Ant Design table */
+.custom-ant-table .ant-table-thead > tr > th {
+  background-color: #3d1852; /* Purple background */
+  color: white; /* White text */
+  text-align: left; /* Align text to the left */
+  border-radius: 0 !important; /* Remove default rounded borders */
+}
+
+
+ 
+.ant-table-tbody > tr:hover > td {
+  background-color: #e8ebf0 !important; /* Light purple hover effect */
+}
